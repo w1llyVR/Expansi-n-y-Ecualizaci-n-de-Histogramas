@@ -112,11 +112,12 @@ namespace Expansión_y_Ecualización_de_Histogramas
             this.histogramasToolStripMenuItem.Name = "histogramasToolStripMenuItem";
             this.histogramasToolStripMenuItem.Size = new System.Drawing.Size(86, 20);
             this.histogramasToolStripMenuItem.Text = "Histogramas";
+            this.histogramasToolStripMenuItem.Click += new System.EventHandler(this.histogramasToolStripMenuItem_Click);
             // 
             // openFileDialog1
             // 
             this.openFileDialog1.FileName = "openFileDialog1";
-            this.openFileDialog1.Filter = "Imagenes PNG|*.png|Imagenes Bitmap|*.bmp";
+            this.openFileDialog1.Filter = "Imagenes PNG|*.png|Imagenes Bitmap|*.bmp|Imagenes JPG|*.jpg";
             // 
             // saveFileDialog1
             // 

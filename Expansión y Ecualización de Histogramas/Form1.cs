@@ -54,6 +54,26 @@ namespace Expansión_y_Ecualización_de_Histogramas
             }
         }
 
+        private void histogramasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            //histogramasToolStripMenuItem_Click(sender, e);
+
+            Color pixelColor = new Color();
+
+            for (int i = 0; i < original.Width; i++)
+            {
+                for (int j = 0; j < original.Height; j++)
+                {
+                    pixelColor = original.GetPixel(i, j);
+                    histograma[pixelColor.R]++;
+                }
+            }
+
+            Histograma histogramaForm = new Histograma(histograma);
+            histogramaForm.Show();
+
+        }
+
         public Form1()
         {
             resultado = new Bitmap(900, 700);
