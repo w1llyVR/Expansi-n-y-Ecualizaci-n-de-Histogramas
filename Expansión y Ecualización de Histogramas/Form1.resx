@@ -120,10 +120,222 @@
   <metadata name="menuStrip2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="menuStrip2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="menuStrip2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>988, 24</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="menuStrip2.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="menuStrip2.Text" xml:space="preserve">
+    <value>menuStrip2</value>
+  </data>
+  <data name="&gt;&gt;menuStrip2.Name" xml:space="preserve">
+    <value>menuStrip2</value>
+  </data>
+  <data name="&gt;&gt;menuStrip2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;menuStrip2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;menuStrip2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="archivoToolStripMenuItem.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
+    <value>ActiveCaption</value>
+  </data>
+  <data name="archivoToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>60, 20</value>
+  </data>
+  <data name="archivoToolStripMenuItem.Text" xml:space="preserve">
+    <value>Archivo</value>
+  </data>
+  <data name="abrirImagenToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 22</value>
+  </data>
+  <data name="abrirImagenToolStripMenuItem.Text" xml:space="preserve">
+    <value>Abrir Imagen</value>
+  </data>
+  <data name="salvarImagenToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 22</value>
+  </data>
+  <data name="salvarImagenToolStripMenuItem.Text" xml:space="preserve">
+    <value>Salvar Imagen</value>
+  </data>
+  <data name="salirToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 22</value>
+  </data>
+  <data name="salirToolStripMenuItem.Text" xml:space="preserve">
+    <value>Salir</value>
+  </data>
+  <data name="histogramasToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>86, 20</value>
+  </data>
+  <data name="histogramasToolStripMenuItem.Text" xml:space="preserve">
+    <value>Histogramas</value>
+  </data>
+  <data name="histogramaGrisToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 22</value>
+  </data>
+  <data name="histogramaGrisToolStripMenuItem.Text" xml:space="preserve">
+    <value>HistogramaGris</value>
+  </data>
+  <data name="básicosToolStripMenuItem.ShowShortcutKeys" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="básicosToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 20</value>
+  </data>
+  <data name="básicosToolStripMenuItem.Text" xml:space="preserve">
+    <value>Procesos</value>
+  </data>
+  <data name="expandirImagenToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 22</value>
+  </data>
+  <data name="expandirImagenToolStripMenuItem.Text" xml:space="preserve">
+    <value>Expandir Imagen</value>
+  </data>
+  <data name="ecualizarImagenToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 22</value>
+  </data>
+  <data name="ecualizarImagenToolStripMenuItem.Text" xml:space="preserve">
+    <value>Ecualizar Imagen</value>
+  </data>
   <metadata name="openFileDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>132, 17</value>
   </metadata>
+  <data name="openFileDialog1.Filter" xml:space="preserve">
+    <value>Imagenes PNG|*.png|Imagenes Bitmap|*.bmp|Imagenes JPG|*.jpg</value>
+  </data>
   <metadata name="saveFileDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>272, 17</value>
   </metadata>
+  <data name="saveFileDialog1.Filter" xml:space="preserve">
+    <value>Imagenes PNG|*.png</value>
+  </data>
+  <data name="histogramaToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 22</value>
+  </data>
+  <data name="histogramaToolStripMenuItem.Text" xml:space="preserve">
+    <value>Histograma</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>988, 731</value>
+  </data>
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA
+        AAD//////////////v/+/vz///37///++////vz///78///+/P///v3////9///+/P///fv//v79////
+        ///////////////+/P////7/////////////////////////////////////////////////////////
+        /////v3////+///+/f//////+Pn1/+/kvP/r0IX/6sVh/+vBV//swVT/6rxJ/+jLef/n0Ij/58dr/+rN
+        fP/y7df//v/////+/f/7/f7/6teb/+axIf/qqAD/7qcB//CpAf/yqQD/7aYB/+7TfP/qzGf/6rcn/+e8
+        OP/nsR3/56cA/+nPg//7/f//5sFa/+umAP/yrAH/8q4C//KvBP/yrAT/7qQA//Hak//59+n/7KkD//Kq
+        AP/wrQT/7rER//OtAf/tpgD/5cZs//CpAP/yrgP/8a0C//GtAf/wqwD/7r05/+nDT//49eb/+fDV/+6r
+        AP/yrgL/8a0C//KsAP/xrQH/8q4C/+6qAv/yrgT/8a0A//GtAf/yrQD/7KsC//bx2P/3+fL/8OvO//ry
+        2v/uqwD/8q0A//GtAf/xrQH/8a0A//GtAP/yrgL/8KoA//GtAP/xrgL/8aoA/+27Nf/7////7uCs/+3m
+        wv/27c3/76wE//KtAP/xrQH/8a0B//GtAP/xrQD/8a0C/+a7Qv/wqwD/8q8F/++nAP/w1IH/+////+i1
+        KP/t4rL/7eS4/++uCP/xrQD/8a4C//GsAf/xrQD/8a0A//GrAP/oy3f/76gA//KvA//tqgD/9+/W//Tt
+        y//qowD/79OA/+jitf/rrAb/8qoA//GpAP/puzT/7q4F//KrAP/ntSz/6tGK/++pAP/yqwD/67Uo//z/
+        ///v0HT/76QA/++7M//s6cj/5r9H/+y0HP/rwkz/6tKC/++rAP/vqQD/6tKN//Px4v/mrBr/76kA/+/g
+        pP/5////7LYn//KrAP/uqgD/8OGr/+rASP/qvDX/68BF/+y0H//0rQD/6akL//Lq0P//////7uG2/+Gy
+        K//twEH/7bw1/++sAf/xrgP/8KcA/+/Mav/x143/8KIA//KpBP/upQH/6aQA/+nPg//+//////79////
+        ///29/P/5bEy//KlAP/yrwX/8a0C//GsAP/ushf/7+rF/+uyGP/ntC//6tWT/+/kv//9///////+////
+        ///+/vv///////Pv3P/mtC3/76cA//KsAf/zrgD/8qwA/+6xEv/krxz/8OXE/////////v3///79////
+        //////////////7+/f//////9/bv/+fNgP/lsyj/6KsK/+erDv/mtjf/8OS//////////fn//v78////
+        ////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAA==
+</value>
+  </data>
+  <data name="$this.RightToLeftLayout" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;archivoToolStripMenuItem.Name" xml:space="preserve">
+    <value>archivoToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;archivoToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;abrirImagenToolStripMenuItem.Name" xml:space="preserve">
+    <value>abrirImagenToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;abrirImagenToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;salvarImagenToolStripMenuItem.Name" xml:space="preserve">
+    <value>salvarImagenToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;salvarImagenToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;salirToolStripMenuItem.Name" xml:space="preserve">
+    <value>salirToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;salirToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;histogramasToolStripMenuItem.Name" xml:space="preserve">
+    <value>histogramasToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;histogramasToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;histogramaGrisToolStripMenuItem.Name" xml:space="preserve">
+    <value>histogramaGrisToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;histogramaGrisToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;básicosToolStripMenuItem.Name" xml:space="preserve">
+    <value>básicosToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;básicosToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;expandirImagenToolStripMenuItem.Name" xml:space="preserve">
+    <value>expandirImagenToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;expandirImagenToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ecualizarImagenToolStripMenuItem.Name" xml:space="preserve">
+    <value>ecualizarImagenToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;ecualizarImagenToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;openFileDialog1.Name" xml:space="preserve">
+    <value>openFileDialog1</value>
+  </data>
+  <data name="&gt;&gt;openFileDialog1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.OpenFileDialog, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;saveFileDialog1.Name" xml:space="preserve">
+    <value>saveFileDialog1</value>
+  </data>
+  <data name="&gt;&gt;saveFileDialog1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.SaveFileDialog, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;histogramaToolStripMenuItem.Name" xml:space="preserve">
+    <value>histogramaToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;histogramaToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Form1</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>
