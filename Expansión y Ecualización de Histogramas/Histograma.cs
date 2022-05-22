@@ -50,3 +50,4 @@ namespace Expansión_y_Ecualización_de_Histogramas
         }
     }
 }
+
