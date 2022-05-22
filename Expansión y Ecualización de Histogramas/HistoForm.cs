@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 namespace Expansión_y_Ecualización_de_Histogramas
 {
     public partial class HistoForm : Form
